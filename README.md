@@ -1,1 +1,1 @@
-#This is a collection of notes from a Data Science bootcamp
+# This is a collection of notes from a Data Science bootcamp
